@@ -9,7 +9,7 @@
 
 
 
-## <b>installation</b>
+## <b>[~] installation</b>
 ```
 $ pkg update
 $ pkg upgrade
@@ -24,7 +24,7 @@ $ cd crack-pro
 $ python2 cr3k.py
 ```
 
-## Single Command
+## [~] Single Command
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/crack-pro.git ; cd crack-pro ; python2 cr3k.py
