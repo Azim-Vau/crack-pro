@@ -12,7 +12,7 @@
   
 ____Programming And Memes____
 
-Want to contact <a href="https://github.com/Azim-vau"><b>Mr. Error </a> ?</br><br>
+Want to contact <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> ?</br><br>
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
 CONTACT : <i>errorazim@gmail.com</i>  <br> <br> 
 
@@ -47,7 +47,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
       FACEBOOK OLD ID CLONER
 </p>
 
-![20200808_160757](https://github.com/Azim-vau/MODULES/blob/main/Screenshot_20211005-234917_Termux.jpg)
+![20200808_160757](https://github.com/Azim-vau/MODULES/blob/main/Screenshot_20211024-173340_Termux.jpg)
 
 #### Install script on Termux
 ```python
