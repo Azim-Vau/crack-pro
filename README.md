@@ -49,7 +49,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 #### Install script on Termux
 ```python
 $ apt update && apt upgrade
-$ apt install python2
+$ apt install python
 $ pip install mechanize lolcat
 $ pip install requests bs4
 $ pip install futures
@@ -65,7 +65,7 @@ $ python cr3k.py
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/Azim-vau/crack-pro ; cd crack-pro ; python cr3k.py
+apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/Azim-vau/crack-pro ; cd crack-pro ; python cr3k.py
 ```
 <br>
 
