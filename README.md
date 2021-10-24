@@ -27,9 +27,6 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
     <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-vau/crack-pro.svg"/>
   </a>
   <a href="https://github.com/Azim-vau/crack-pro">
-    <img alt="Search" src="https://img.shields.io/github/search/Azim-vau/Cracker/crack-pro.svg"/>
-  </a>
-  <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/crack-pro.svg"/>
   </a>
 <a href="https://github.com/Azim-vau/crack-pro">
