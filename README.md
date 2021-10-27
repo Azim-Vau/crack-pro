@@ -41,12 +41,12 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 </br>
 <p align="center">
-      FACEBOOK OLD ID CLONER
+      FACEBOOK ACCOUNT CLONER
 </p>
 
 ![20200808_160757](https://github.com/Azim-vau/MODULES/blob/main/Screenshot_20211024-173340_Termux.jpg)
 
-#### Install script on Termux
+#### INSTALL TOOL ON TERMUX
 ```python
 $ apt update && apt upgrade
 $ apt install python
@@ -56,13 +56,13 @@ $ pip install futures
 $ apt install git
 $ git clone https://github.com/Azim-vau/crack-pro.git
 ```
-#### Run script
+#### RUN SCRIPT
 ```python
 $ cd crack-pro
 $ python cr3k.py
 ```
 
-#### [~] Single Command
+#### [~] SINGLE COMMAND
 
 ```python
 apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/Azim-vau/crack-pro ; cd crack-pro ; python cr3k.py
