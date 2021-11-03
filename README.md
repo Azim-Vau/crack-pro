@@ -61,7 +61,7 @@ $ git clone https://github.com/Azim-vau/crack-pro.git
 $ cd crack-pro
 $ python cr3k.py
 ```
-#### [~] KEY PASSWORD: azimvau
+#### :closed_lock_with_key: KEY PASSWORD: azimvau
 <br>
 
 #### MY SOCIAL MEDIA
