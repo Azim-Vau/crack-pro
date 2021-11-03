@@ -62,10 +62,11 @@ $ cd crack-pro
 $ python cr3k.py
 ```
 
-#### [~] SINGLE COMMAND
+#### [~] KEY PASSWORD:
 
-```python
-apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/Azim-vau/crack-pro ; cd crack-pro ; python cr3k.py
+```
+azimvau
+
 ```
 <br>
 
