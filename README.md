@@ -19,16 +19,19 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 <a href="https://github.com/Azim-Vau/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Azim-Vau/termux-style/stargazers/">
+
+  <a href="https://github.com/Azim-Vau/termux-style/stargazers/">
   <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/crack-pro.svg"/>
   </a>
+<br>
   <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-vau/crack-pro.svg"/>
   </a>
   <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/crack-pro.svg"/>
   </a>
+<br>
 <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-vau/crack-pro.svg"/>
   </a>
