@@ -69,7 +69,8 @@ $ python cr3k.py
 
 #### JOIN TELEGRAM GROUP 👇
 <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=black&labelColor=black)](https://t.me/mrerror69)
+
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
 
 <br>
 
