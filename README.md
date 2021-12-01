@@ -78,4 +78,4 @@ $ python cr3k.py
 [![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143) <br>
 
 
-<h2> THANKS FOR VISIT <\>
+<h2> THANKS FOR VISIT ✘✘ <h2\>
