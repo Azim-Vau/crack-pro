@@ -67,7 +67,8 @@ $ python cr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
-#### JOIN TELEGRAM GROUP [![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
+#### JOIN TELEGRAM GROUP <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
 
 <br>
 
