@@ -73,10 +73,10 @@ $ python cr3k.py
 
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=black&labelColor=black)](https://github.com/Azim-Vau)
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=black&labelColor=red)](https://t.me/mrerror69)
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=black&labelColor=red)](https://www.facebook.com/Azimvau69)
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=back&labelColor=red)](https://www.instagram.com/azimmahmud143)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau)
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=red&labelColor=black)](https://t.me/mrerror69)
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=lightred&labelColor=black)](https://www.facebook.com/Azimvau69)
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143)
 
 
 <h2> THANKS FOR VISIT <\>
