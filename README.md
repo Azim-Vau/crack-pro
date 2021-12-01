@@ -74,8 +74,8 @@ $ python cr3k.py
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Azim-Vau) 
-[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://www.facebook.com/Azimvau69)
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/azimmahmud143)
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=white)](https://www.facebook.com/Azimvau69)
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/azimmahmud143)
 
 
 <h2> THANKS FOR VISIT <\>
