@@ -14,7 +14,7 @@ ____Programming And Memes____
 
 CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-CONTACT : <i>errorazim@gmail.com</i>  <br> <br> 
+<p>errorazim@gmail.com</p>  <br> <br> 
 
 
 <a href="https://github.com/Azim-Vau/followers">
