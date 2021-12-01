@@ -67,8 +67,8 @@ $ python cr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD: azimvau
 
-#### JOIN TELEGRAM GROUP FOR KEY ✘✘ :closed_lock_with_key:
-
+#### JOIN TELEGRAM GROUP FOR KEY ✘✘
+<a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
 
 <br>
 
