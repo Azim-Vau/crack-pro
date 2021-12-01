@@ -66,6 +66,10 @@ $ cd crack-pro
 $ python cr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD: azimvau
+
+#### JOIN TELEGRAM GROUP FOR KEY ✘✘ :closed_lock_with_key:
+
+
 <br>
 
 #### MY SOCIAL MEDIA
