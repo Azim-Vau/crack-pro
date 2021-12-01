@@ -32,7 +32,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-vau/crack-pro.svg"/>
   </a>
-
+<\br>
 <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/crack-pro.svg"/> <a href="https://github.com/Azim-vau/crack-pro">
     <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/crack-pro.svg"/>
