@@ -67,16 +67,17 @@ $ python cr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
- 
+#### JOIN TELEGRAM GROUP 👇
+<br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=black&labelColor=black)](https://t.me/mrerror69)
 
 <br>
 
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau)
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=black&labelColor=red)](https://t.me/mrerror69)
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Azimvau69)
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Azimvau69) <br>
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143) <br>
 
 
 <h2> THANKS FOR VISIT <\>
