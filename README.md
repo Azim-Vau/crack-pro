@@ -4,7 +4,7 @@
   
   
  
-   ## * MY SOCIAL MEDIA : <br>
+   ##  MY SOCIAL MEDIA : <br>
 
 <a href="https://Instagram.com/azimmahmud143" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
 <a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
