@@ -72,9 +72,9 @@ $ python cr3k.py
 
 <br>
 
-<b>🎯 GET ACCESS TOKEN APK DOWNLOAD <b/>
+<b>🎯 GET ACCESS TOKEN APK <b/>
 
-<a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook"> DOWNLOAD <a/>
+<a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook"> DOWNLOAD <a/> <br>
 
 
 #### MY SOCIAL MEDIA
