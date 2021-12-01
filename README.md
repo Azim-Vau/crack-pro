@@ -65,10 +65,9 @@ $ git clone https://github.com/Azim-vau/crack-pro.git
 $ cd crack-pro
 $ python cr3k.py
 ```
-#### :closed_lock_with_key: KEY PASSWORD: azimvau
+#### :closed_lock_with_key: KEY PASSWORD ⁉️: JOIN TELEGRAM <a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
 
-#### JOIN TELEGRAM GROUP FOR KEY ✘✘
-<a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
+
 
 <br>
 
@@ -79,4 +78,4 @@ $ python cr3k.py
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/azimmahmud143)
 
 
-#### THANKS FOR VISIT
+<h2> THANKS FOR VISIT <\>
