@@ -12,7 +12,7 @@
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
+CONTACT WITH <a href="https://github.com/Kkbaloch"><b>KK Baloch </a> </br><br>
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
 <p>errorazim@gmail.com</p>  <br> <br> 
 
@@ -67,9 +67,7 @@ $ python cr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
-#### JOIN TELEGRAM CHANNEL <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
-
+#### KK Baloch
 <br>
 
 <b>🎯 GET ACCESS TOKEN APK <b/>
@@ -79,9 +77,9 @@ $ python cr3k.py
 
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Azimvau69) <br>
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143) <br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/KkBaloch) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Khalidbaloch70) <br>
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/Khalidbaloch581) <br>
 
 
 <h2> THANKS FOR VISIT ✘✘ <h2\>
